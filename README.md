@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF092F&width=435&lines=Hello+World;I+need+a+%3Cbr%3E;ZzzzZzzzZz" alt="Typing SVG" /></a>
+
 # 💫 About Me:
 💻 Started learning programming in 2020<br>🎓 Computer Science graduate from Cavite State University – Bacoor Campus<br>🧑‍💼 Freelancing since 2022<br>🔧 Full-stack developer with strong focus on web development, UI/UX design, and building responsive interfaces <br>🎨 Also experienced in web design and creating modern layouts<br>✨ Currently learning GSAP and advanced web animations
 
